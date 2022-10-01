@@ -1,6 +1,6 @@
 package src;
 
-public class conditionals {
+public class Conditionals {
     public static void main(String[] args) {
         int number = 24;
 

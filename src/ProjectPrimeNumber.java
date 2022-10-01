@@ -1,6 +1,6 @@
 package src;
 
-public class projectPrimeNumber {
+public class ProjectPrimeNumber {
     public static void main(String[] args) {
         String message = "sayýsý asaldýr.";
         int number = 7;

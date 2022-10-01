@@ -1,6 +1,6 @@
 package src;
 
-public class reCapDemo {
+public class ReCapDemo {
     public static void main(String[] args) {
         int number = 20;
         int number2 = 25;

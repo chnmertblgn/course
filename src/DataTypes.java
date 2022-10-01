@@ -1,6 +1,6 @@
 package src;
 
-public class dataTypes {
+public class DataTypes {
     public static void main(String[] args) {
         boolean bl = true;//true ya da false - 1 bit
         byte number = 127;//-128 ile 127 arası - 8 bit

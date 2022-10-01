@@ -1,6 +1,6 @@
 package src;
 
-public class projectPerfectNumber {
+public class ProjectPerfectNumber {
     public static void main(String[] args) {
         boolean isPerfect = false;
         int number = 28;

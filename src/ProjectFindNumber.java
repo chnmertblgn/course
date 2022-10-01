@@ -1,6 +1,6 @@
 package src;
 
-public class projectFindNumber {
+public class ProjectFindNumber {
     public static void main(String[] args) {
         String message = "sayýsý dizi içerisinde yok.";
         int[] numbers = new int[]{1,2,5,7,9,0};

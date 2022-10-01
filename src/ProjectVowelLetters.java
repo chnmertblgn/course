@@ -1,6 +1,6 @@
 package src;
 
-public class projectVowelLetters {
+public class ProjectVowelLetters {
     public static void main(String[] args) {
         char ch = 'A';
 

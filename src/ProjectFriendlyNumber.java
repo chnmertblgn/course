@@ -1,6 +1,6 @@
 package src;
 
-public class projectFriendlyNumber {
+public class ProjectFriendlyNumber {
     public static void main(String[] args) {
         int number = 220;
         int number2 = 284;

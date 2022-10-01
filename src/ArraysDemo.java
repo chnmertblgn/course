@@ -1,6 +1,6 @@
 package src;
 
-public class arraysDemo {
+public class ArraysDemo {
     public static void main(String[] args) {
         String[] students = new String[4];
 
